@@ -1,0 +1,43 @@
+Swisstronik contract deployed to 0x7ca6Be2063a5a3d1b1929Cdbe3e1798de999BDaF
+
+
+Transaction Receipt:  TransactionResponse {
+  provider: HardhatEthersProvider {
+    _hardhatProvider: LazyInitializationProviderAdapter {
+      _providerFactory: [AsyncFunction (anonymous)],
+      _emitter: [EventEmitter],
+      _initializingPromise: [Promise],
+      provider: [BackwardsCompatibilityProviderAdapter]
+    },
+    _networkName: 'swisstronik',
+    _blockListeners: [],
+    _transactionHashListeners: Map(0) {},
+    _eventListeners: [],
+    _isHardhatNetworkCached: false,
+    _latestBlockNumberPolled: 6411080,
+    _transactionHashPollingTimeout: undefined,
+    _blockPollingTimeout: undefined
+  },
+  blockNumber: null,
+  blockHash: null,
+  index: undefined,
+  hash: '0xec59fb9f75cb053f790bd91482866562d71939237d5d8fc3c986632acf42832b',
+  type: 2,
+  to: '0x7ca6Be2063a5a3d1b1929Cdbe3e1798de999BDaF',
+  from: '0x8d43EB58A51e5fd33A037d866228cA76be3A8d3d',
+  nonce: 1,
+  gasLimit: 27595n,
+  gasPrice: 8n,
+  maxPriorityFeePerGas: 1n,
+  maxFeePerGas: 8n,
+  maxFeePerBlobGas: null,
+  data: '0x626b87e7d012e68695821f98453c56d5540c8597f9a4b61f612f836a91a4f0021595441827f8d91fc1dc55bbae651f44b8b62df01cfd7451f7622a6507f7217c32f04a918281a82ae467e724be46d89d5603c38b3b88838e779b45d9d321001218560196107df61e5f73ba4a65b549c21a425e5353e92da000d432946da6e65af680960fcd165ae91b2d399a88f27275aa39ddae9e1b394e44fc1bbf909dab3aa207b77f05c40a74807c4b9b5bd3b8123eaa62',
+  value: 0n,
+  chainId: 1291n,
+  signature: Signature { r: "0xf794a7250db6b23ddc8b92d9adc6c1d393f97cd78e9a11af0d8440fbcfba9c1c", s: "0x68a16fedfe6187e5d280fbc033e01432e7592cd37d9e06fed6ddef75ac0e1b02", yParity: 0, networkV: null },
+  accessList: [],
+  blobVersionedHashes: null
+}
+
+
+
